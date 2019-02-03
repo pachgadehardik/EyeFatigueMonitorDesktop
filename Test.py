@@ -1,1 +1,0 @@
-print("HEllo world!,this is test script automated!!!")
