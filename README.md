@@ -1,4 +1,4 @@
-# EyeFatigueMonitorDesktop
+# Eye Fatigue Monitor fir Desktop and Android app
 Eye blink detection for Android app and Desktop systems
 More details of the project are described further
 
